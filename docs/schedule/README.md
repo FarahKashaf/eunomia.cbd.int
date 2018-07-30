@@ -7,6 +7,8 @@ sidebar: auto
 ## Conference Select
 ![Conference select gif](https://attachments.cbd.int/apps/eunomia/conference.gif)
 
+test
+
 ## Change Day
 ![Change day animated gif](https://attachments.cbd.int/apps/eunomia/change-days.gif)
 
